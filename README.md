@@ -1,7 +1,7 @@
-#cafe_recommendation
+# cafe_recommendation
 
-##참고 이미지
+## 참고 이미지
 ![img1](UI.jpg)
 
-##시연 영상
+## 시연 영상
 ![gif1](video.gif)
